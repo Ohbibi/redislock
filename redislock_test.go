@@ -12,7 +12,7 @@ import (
 	"testing"
 	"time"
 
-	. "github.com/bsm/redislock"
+	. "github.com/Ohbibi/redislock"
 	"github.com/redis/go-redis/v9"
 )
 
